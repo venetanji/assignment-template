@@ -5,7 +5,7 @@ import sys
 pygame.init()
 
 
-# 设置窗口大小为屏幕的一半
+# 设置初始窗口大小
 window_width = 1000
 window_height = 600
 
